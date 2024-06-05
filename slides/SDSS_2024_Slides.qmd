@@ -1,0 +1,176 @@
+---
+format:
+  earth-revealjs:
+    logo: "./images/hex.png"
+    footer: "NSF POSE Grant 1005559"
+    lightbox: true
+    incremental: true   
+embed-resources: true
+---
+
+## Building a sustainable open-source ecosystem {.theme-title2 .center}
+
+### Lessons from an NSF POSE grant for the `data.table` package
+
+#### Kelly Bodwin
+
+#### California Polytechnic State University
+
+## Background {.theme-section3 .center}
+
+`data.table` is an R package for **dataset manipulation** and **summarizing**
+
+It is...
+
+. . .
+
+widely used 😍
+
+. . .
+
+super super fast (like, *really* fast) 🌟
+
+. . .
+
+... and somewhat stagnant. 😢
+
+. . .
+
+So, **Toby Hocking (NAU)** submitted a grant proposal in 2023.
+
+## NSF POSE {.theme-section2 .center}
+
+> Supports the facilitation, creation and growth of open-source ecosystems for the creation of new technology solutions.
+
+## A "sustainable ecosystem" is... {.theme-section1 .center}
+
+. . .
+
+### **...engaging**
+
+&emsp; *Regular frequent interaction between different types of members*
+
+### **...evolving**
+
+&emsp; *Adapts and grows over time and in response to new environmental changes.*
+
+### **...enduring**
+
+&emsp; *Lasts over many years, or many lifecycles.*
+
+## Open-Source Community: </br> Software *Users* {.theme-section3 .center}
+
+## Engaged Users {.theme-slide2}
+
+* 🔅 Access to **social connections** with other `data.table` users
+
+* &emsp; → 🦣 fosstodon.org/@r_data_table
+* &emsp; → ⛅  bsky.app/profile/rdatatable.bsky.social
+* &emsp; → 🐦 twitter.com/r_data_table
+
+* 🔅 Regular **fresh content** about `data.table`
+
+* &emsp; → [Blog: The Raft](https://rdatatable-community.github.io/The-Raft/)
+
+## Evolving Users {.theme-slide2}
+
+* 🔅 Clear **bridges** and **partnerships** to other communities.
+
+* &emsp; → `data.table` + `tidyverse` = 💛
+
+
+* 🔅 An **educational path** forward to more advanced use.
+
+
+* 🔅 Broader **accessibility** of content.
+
+* &emsp; → [Grant-funded Translation Project](https://rdatatable-community.github.io/The-Raft/posts/2023-10-17-translation_announcement-toby_hocking/)
+
+
+## Enduring Users {.theme-slide2}
+
+
+* 🔅 Continued **relevance** of `data.table` to their work
+
+* &emsp; →  Packages like `treedata.table` ![](./images/treedt_hex.png){.lightbox width="3%" height="3%"}
+
+* &emsp; →  *Coming Soon:* The **Seal of Approval**
+
+* 🔅 Existence of **learning resources** and **references**
+
+* &emsp; → *Coming Soon:* Intro to `data.table` online materials!
+
+* &emsp; → *Coming Later:* A `data.table` textbook.
+
+## Enduring Users {.theme-slide2}
+
+* 🔅  Creation of **personal connections** and **friendships** and **fun traditions** in the community
+
+* &emsp; → [Travel grant for contributors](https://rdatatable-community.github.io/The-Raft/posts/2023-11-01-travel_grant_announcement-community_team/)
+
+* &emsp; → Talks, meetups, and giveaways at **UseR!**, **JSM**, **Posit::conf** 
+
+* &emsp; → Hex stickers - find me!
+
+## Open-Source Community: </br> Software *Developers* {.theme-section3 .center}
+
+## Engaged Developers {.theme-slide2}
+
+* 🔅 A **governance structure** outlining responsibilities
+
+* &emsp; → [A new governance document for `data.table`!](https://github.com/Rdatatable/data.table/blob/master/GOVERNANCE.md)
+
+* 🔅 Ability to **test new code** without breaking the package
+
+* &emsp; → [A new testing infrastructure for `data.table`](https://rdatatable-community.github.io/The-Raft/posts/2024-03-10-testing_plan-toby_hocking/)
+
+## Evolving Developers {.theme-slide2}
+
+* 🔅 A **welcoming atmosphere** for new contributors
+
+* &emsp; → *Wishlist:* Contributor guidelines and tags on GitHub.
+
+* 🔅 Developer-side **education** and **documentation**.
+
+*  &emsp; → *Wishlist:* Simple explanation of how `data.table` works.
+
+* 🔅 User engagement for **feature requests** and **bug reports**
+
+
+
+## Enduring Developers {.theme-slide2}
+
+* 🔅 Support them with **appreciation**.
+
+* &emsp; → *Have you thanked an open-source dev today?*
+
+* 🔅 Support them with **professional recognition**
+
+* &emsp; → *Did you cite EVERY package you used in your most recent paper?*
+
+* &emsp; → *Do you vote for awards/tenure/promotions for people who develop open-source code?*
+
+
+## Enduring Developers {.theme-slide2}
+
+* 🔅 Support them with **money**
+
+* &emsp; → Some developers have GitHub, Patreon, or a "Buy me a coffee" button.
+
+* &emsp; → Support meta-groups that help open-source: [ROpenSci](https://ropensci.org/), [The Linux Foundation](https://www.linuxfoundation.org/), [The R Foundation](https://www.r-project.org/foundation/), [NumFocus](https://numfocus.org/), etc. 
+
+* &emsp; → Future idea: Fundraising drives for specific features.
+
+## What next??? {.theme-section2 .center}
+
+* 🔅 Can we foster a **community** and **culture** that outlasts the grant events?
+
+* 🔅 Can we lay a **groundwork** of **resources** to educate and support users?
+
+* 🔅 Can we establish a **framework** for development that is sustainable?
+
+* 🔅 Can we continue to **support** projects beyond the grant years?
+
+## Join us! {.theme-section3 .center}
+
+#### [linktr.ee/rdatatable](linktr.ee/rdatatable)
